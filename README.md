@@ -1,6 +1,6 @@
 # Hacking-the-Wiki-Games
 
-If the notebook is not rendered, visit https://nbviewer.jupyter.org/github/kevin1kevin1k/Hacking-the-Wiki-Games/blob/master/linguistics-final.ipynb.
+If the notebook is not rendered, visit https://nbviewer.jupyter.org/github/kevin1kevin1k/Hacking-the-Wiki-Games/blob/master/demo.ipynb.
 
 ### Instructions for running the notebook
 
