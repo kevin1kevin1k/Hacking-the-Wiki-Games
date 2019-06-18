@@ -1,5 +1,7 @@
 # Hacking-the-Wiki-Games
 
+If the notebook is not rendered, visit https://nbviewer.jupyter.org/github/kevin1kevin1k/Hacking-the-Wiki-Games/blob/master/linguistics-final.ipynb.
+
 ### Instructions for running the notebook
 
 - Visit https://fasttext.cc/docs/en/pretrained-vectors.html and download the pre-trained Ensligh model. Alternatively, you can run
