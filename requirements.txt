@@ -14,7 +14,7 @@ lxml==4.9.1
 numpy==1.22.0
 nltk==3.9
 python-dateutil==2.8.0
-requests==2.32.2
+requests==2.32.4
 s3transfer==0.2.1
 scipy==1.3.0
 six==1.12.0
